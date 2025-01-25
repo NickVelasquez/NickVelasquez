@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **nickvelasquez007@gmail.com**
+- 📫 How to reach me **nvelasquez007@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nickvelasquez07/](https://www.linkedin.com/in/nickvelasquez07/)
 
 - ⚡ Fun fact **A full time Mechanical Engineer at Pratt and Whitney**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me: ngvelasquez001@gmail.com</h3> -->
 <p align="left">
 </p>
 
