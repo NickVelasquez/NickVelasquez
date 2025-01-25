@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nickvelasquez07/](https://www.linkedin.com/in/nickvelasquez07/)
 
-- ⚡ Fun fact **A full time Mechanical Engineer at Pratt and Whitney**
+- ⚡ Fun fact **Passionate about Fitness and Health**
 
 <!-- <h3 align="left">Connect with me: ngvelasquez001@gmail.com</h3> -->
 <p align="left">
